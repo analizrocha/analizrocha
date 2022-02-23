@@ -1,29 +1,33 @@
 ## Oiii! Eu sou a Analiz 
-<div align="center">
-  <a href="https://github.com/analizrocha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=analizrocha&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&hide=prs" />
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ana-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/846483888443228210/893377597990395934/GIFPAL-20211001030304.gif">
-</div>
-  
-  ##
 
+ ### Languages and Tools:
+ 
+  [<img align="center" width="35" alt="Ana-Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
+  [<img align="center" width="35"  alt="Ana-C++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg">](https://wikipedia.org/wiki/C++)
+  [<img align="center" width="35" alt="Ana-Visual-studio-code" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg">](https://code.visualstudio.com)
+  [<img align="center" width="35" alt="Ana-Python" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg">](https://www.python.org)
+  [<img align="center" width="35" alt="Ana-Php" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">](https://www.php.net)
+   [<img align="center" width="35" alt="Ana-Html5" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg">](https://wikipedia.org/wiki/HTML5)
+  [<img align="center" width="35" alt="Ana-Css3" height="40" width="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg">](https://wikipedia.org/wiki/Cascading_Style_Sheets)
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/846483888443228210/893377597990395934/GIFPAL-20211001030304.gif">
+ 
+##
  
 <div> 
    <a href="https://instagram.com/analiz_rocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:analiztj2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/analiz-rocha-luz-444934219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/analizrocha/analizrocha/blob/output/github-contribution-grid-snake.svg)
- 
+  </div>
+  
+ ---
+
+<p align="center">
+    <a href="https://github.com/analizrocha"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=analizrocha&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=analizrocha&theme=dracula&hide_border=true"></a>
+</p>
+
+<div align="center">
+
+![Snake animation](https://github.com/analizrocha/analizrocha/blob/output/github-contribution-grid-snake.svg)
+
 </div>
-
-
