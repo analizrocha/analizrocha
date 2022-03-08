@@ -22,7 +22,7 @@
  ---
 
 <p align="center">
-    <a href="https://github.com/analizrocha"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=analizrocha&theme=dracula&show_icons=true&hide_border=truea&include_all_commits=true"></a>
+    <a href="https://github.com/analizrocha"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=analizrocha&theme=dracula&show_icons=true&hide_border=truea&include_all_commits=false&count_private=true"></a>
     <a href="https://github.com/lutfilahdzaky"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=analizrocha&theme=dracula&hide_border=true"></a>
 </p>
 
