@@ -1,6 +1,4 @@
-## Oiii! Eu sou a Analiz 
-
- ### Languages and Tools:
+### Languages and Tools:
  
   [<img align="center" width="35" alt="Ana-Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
   [<img align="center" width="35"  alt="Ana-C++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg">](https://wikipedia.org/wiki/C++)
