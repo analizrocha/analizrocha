@@ -7,6 +7,7 @@
   [<img align="center" width="35" alt="Ana-Php" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">](https://www.php.net)
    [<img align="center" width="35" alt="Ana-Html5" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg">](https://wikipedia.org/wiki/HTML5)
   [<img align="center" width="35" alt="Ana-Css3" height="40" width="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg">](https://wikipedia.org/wiki/Cascading_Style_Sheets)
+   [<img align="center" width="35" alt="Ana-Go" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg">](https://go.dev/)
   <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/846483888443228210/893377597990395934/GIFPAL-20211001030304.gif">
  
 ##
