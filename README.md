@@ -1,7 +1,6 @@
 ### Languages and Tools:
  
   [<img align="center" width="35" alt="Ana-Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
-  [<img align="center" width="35" alt="Ana-Visual-studio-code" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg">](https://code.visualstudio.com)
   [<img align="center" width="35" alt="Ana-Php" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">](https://www.php.net)
    [<img align="center" width="35" alt="Ana-Go" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg">](https://go.dev/)
    [<img align="center" width="35"  alt="Ana-C++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg">](https://wikipedia.org/wiki/C++)
