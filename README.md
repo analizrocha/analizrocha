@@ -1,4 +1,4 @@
-### Languages and Tools:
+### Linguagens:
  
   [<img align="center" width="35" alt="Ana-Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
   [<img align="center" width="35" alt="Ana-Php" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">](https://www.php.net)
