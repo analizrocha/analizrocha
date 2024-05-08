@@ -1,8 +1,11 @@
 ### Linguagens:
  
-  [<img align="center" width="35" alt="Ana-Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">](https://wikipedia.org/wiki/JavaScript)
-  [<img align="center" width="35" alt="Ana-Php" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">](https://www.php.net)
-   [<img align="center" width="35" alt="Ana-Go" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg">](https://go.dev/) 
+  <img align="center" width="35" alt="Ana-Javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">
+  <img align="center" width="35" alt="Ana-Php" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">
+   <img align="center" width="35" alt="Ana-Go" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg">
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 ##
  
 <div> 
