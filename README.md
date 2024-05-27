@@ -1,10 +1,12 @@
-### Linguagens:
+### Conhecimentos:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Javascript" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg">
   <img align="center" alt="Ana-Php" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg">
   <img align="center" alt="Ana-Go" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/go.svg">
   <img align="center" alt="Ana-Python" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg">
+  <img align="center" alt="Ana-CSS" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg">
+  <img align="center" alt="Ana-CSS" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mysql.svg">
   <img align="center" alt="Ana-HTML" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg">
   <img align="center" alt="Ana-CSS" width="35" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg">
 </div>
